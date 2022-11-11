@@ -8,8 +8,13 @@ https://www.g2.com/products/kyc-chain/competitors/alternatives/small-business
 Solutions:
 https://www.veriff.com/plans?keyword=kyc%20verification%20software&utm_term=kyc%20verification%20software&utm_campaign=Search+-+Sales+-+Europe&utm_source=google&utm_medium=cpc&hsa_acc=1064629533&hsa_cam=11650241724&hsa_grp=108647928370&hsa_ad=480672444375&hsa_src=g&hsa_tgt=kwd-820318846467&hsa_kw=kyc%20verification%20software&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAgribBhDkARIsAASA5bt4K2PTcsyALbpmjwZ3ESw3xk2q5_pritKl37gGJGI1Zp285pruZkkaAt9rEALw_wcB
 
-https://www.idnow.io/
+https://www.idnow.io/ - Machine learning based ID verification, AML fast 24/7 solution (Expert + AI Help)
 https://www.hyperverge.co/ - good functionality, awaiting price info
 https://www.trulioo.com/pricing - good for small businesses (according to reviews), plenty of functionality
 https://www.moodys.com/web/en/us/kyc.html (PassFort) - KYC, AML and Risk management 
+https://sanctionscanner.com/pep-list-screening-monitoring
 
+PRE-KYC Solutions:
+https://seon.io/pricing/
+- We don't provide traditional KYC checks (ID verification, etc.), with our solution you can filter junk users, bad leads, and obvious fraudsters so in a way you’re already saving costs and resources before the real KYC checks even begin.
+Our tool's primary goal is to detect fraud, but it could be implemented and could help with your KYC process. It is a soft or pre-KYC method
