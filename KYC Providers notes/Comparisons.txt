@@ -1,8 +1,6 @@
 https://www.g2.com/compare/clearsale-vs-jumio-identity-verification-vs-lastpass-vs-lightico
 
 
-
-
 Source:
 
 https://www.g2.com/products/kyc-chain/competitors/alternatives/small-business
@@ -13,4 +11,5 @@ https://www.veriff.com/plans?keyword=kyc%20verification%20software&utm_term=kyc%
 https://www.idnow.io/
 https://www.hyperverge.co/ - good functionality, awaiting price info
 https://www.trulioo.com/pricing - good for small businesses (according to reviews), plenty of functionality
-https://www.moodys.com/web/en/us/kyc.html - KYC, AML and Risk management 
+https://www.moodys.com/web/en/us/kyc.html (PassFort) - KYC, AML and Risk management 
+
