@@ -14,8 +14,8 @@ https://www.trulioo.com/pricing - good for small businesses (according to review
 https://www.moodys.com/web/en/us/kyc.html (PassFort) - KYC, AML and Risk management 
 https://sanctionscanner.com/pep-list-screening-monitoring
 
-https://withpersona.com/pricing (
-
+https://withpersona.com/pricing 
+https://intellicheck.com/platform/ 
 PRE-KYC Solutions:
 https://seon.io/pricing/
 - We don't provide traditional KYC checks (ID verification, etc.), with our solution you can filter junk users, bad leads, and obvious fraudsters so in a way you’re already saving costs and resources before the real KYC checks even begin.
