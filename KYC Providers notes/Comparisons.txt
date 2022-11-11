@@ -25,6 +25,8 @@ Our tool's primary goal is to detect fraud, but it could be implemented and coul
 
 Better solutions:
 https://passbase.com/pricing
+https://getid.com/pricing/
+https://faceki.com/identity-verification-prices/
 
 Best fits so far:
 https://sumsub.com/pricing/ (May have special price for startups, according to Reddit user)
