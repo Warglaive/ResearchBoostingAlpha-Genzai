@@ -27,12 +27,12 @@ Better solutions:
 https://passbase.com/pricing
 https://getid.com/pricing/
 https://faceki.com/identity-verification-prices/
-https://www.fourthline.com/
+
 
 Best fits so far:
 https://sumsub.com/pricing/ (May have special price for startups, according to Reddit user)
 https://withpersona.com/pricing (Awaiting pricing response)
-
+https://www.fourthline.com/ (No Pricing displayed)
 
 NO KYC Solutions:
 https://pliance.io/products  - Cheap, AML, PEP solution
