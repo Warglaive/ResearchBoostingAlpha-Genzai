@@ -1,0 +1,1 @@
+Make a general research about how Machine Learning service providers (DRAG & DROP ONLY) works (what is the architecture and how it is connected to the customer)
