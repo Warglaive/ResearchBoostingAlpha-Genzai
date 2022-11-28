@@ -11,3 +11,7 @@ AzureML(Done)
 3. compare with another software's parts
 
 //
+Check Architecture for:
+Sagemaker
+Apache Spark
+Snowflake
