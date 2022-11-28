@@ -9,3 +9,5 @@ AzureML(Done)
 1. CHECK EACH PART OF THEIR SOFTWARE 
 2. Check what it does in detail
 3. compare with another software's parts
+
+//
