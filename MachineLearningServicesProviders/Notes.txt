@@ -16,4 +16,5 @@ Sagemaker
 Apache Spark
 Snowflake
 -----02/12/2022------
-
+The pipeline component, that is, a component that takes data, processes it, and produces and packages an ML model.
+- How does it take the data (what 
