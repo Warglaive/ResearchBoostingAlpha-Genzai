@@ -27,4 +27,5 @@ https://dl.acm.org/topic/ccs2012/10002951?ContentGroupKey=10.1145%2F3329486&expa
 
 //05/12/2022
 Found a guide to build a ML pipeline.
+Build GUI on Angular.
 How to connect a built ML pipeline to a Drag and drop interface? What Python libraries are required? What else is required?
